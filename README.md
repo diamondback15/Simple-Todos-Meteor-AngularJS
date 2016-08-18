@@ -1,4 +1,4 @@
-# Simple-Todos-Meteor-AngularJS
+# Todos Meteor AngularJS
 Todos with Meteor and Angular JS. Based on https://www.meteor.com/tutorials/angular/creating-an-app
 
 ##Install meteor
